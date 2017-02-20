@@ -9,6 +9,7 @@
   "author": "Gustavo Muñoz",
   "license": "ISC",
   "dependencies": {
-    "espress": "^4.13.3"
+    "espress": "^4.13.3",
+    "jade": "^1.11.0"
   }
 }

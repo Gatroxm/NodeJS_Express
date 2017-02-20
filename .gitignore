@@ -1,0 +1,2 @@
+#ignora la carpeta con los modulos instalados don npm
+/node_modules
